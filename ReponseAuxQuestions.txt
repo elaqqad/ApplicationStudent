@@ -8,7 +8,7 @@ bien de fait que les tâches sont très simple et on 'a pas besion de enregestre
 le faire par contre si on a pas l'intention d'avoir des clients sur d'autres machines alors on aura pas besion de cet interface.
 
 3)Les fichiers a exporter sont:
-	* Les classes (*.java)
+	* Les fichiers sources, les classes (*.java)
 	* Les fichiers se trouvent dans webcontent
 	
 	(je suis pas très sur)
