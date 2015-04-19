@@ -2,7 +2,7 @@
 
 1) La logique derière l'utilisation de session Bean dans ce projet est la présence de deux entités client serveur, le client appelle les méthodes du bean session qui travaille
 pour le client, le protégeant de la complexité en exécutant des tâches d'affaires à l'intérieur du serveur. Le fait d'utiliser stateless
-bien de fait que les tâches sont très simple et on 'a pas besion de enregestrer ces actions (pas d'historique, pas d'états, stateles)
+vient de fait que les tâches sont très simple et on 'a pas besion de enregestrer ces actions (pas d'historique, pas d'états, stateles)
 
 2) On a deux application séparéeses c'est pour ça qu'il faut utiliser Interface Remote, si on a veut executer les client sur d'autres machines grace à l'interface remote on peut
 le faire par contre si on a pas l'intention d'avoir des clients sur d'autres machines alors on aura pas besion de cet interface.
