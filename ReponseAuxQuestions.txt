@@ -1,4 +1,4 @@
-
+***Le projet n'est pas totelement terminée *** (Une erreur d'execution dans le test unitaires que j'arrive pas a résoudre, pas d'interface graphique)
 
 1) La logique derière l'utilisation de session Bean dans ce projet est la présence de deux entités client serveur, le client appelle les méthodes du bean session qui travaille
 pour le client, le protégeant de la complexité en exécutant des tâches d'affaires à l'intérieur du serveur. Le fait d'utiliser stateless
