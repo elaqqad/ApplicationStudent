@@ -14,4 +14,4 @@ le faire par contre si on a pas l'intention d'avoir des clients sur d'autres mac
 	(je suis pas très sur)
 	
 
-4)Le fait d'utiliser Bean session et Statless at persistence.xml ne permet d'executer l'application dans d'autres machines.
+4)Le fait d'utiliser Bean session et Statless at persistence.xml nous permet d'executer l'application dans d'autres machines.
